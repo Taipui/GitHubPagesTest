@@ -1,0 +1,1 @@
+[Unity製ゲームをWebGLビルドしてGitHub Pagesに公開するワークフロー - やらなイカ？](https://www.nowsprinting.com/entry/2023/09/17/221651)のテスト
